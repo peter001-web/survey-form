@@ -1,3 +1,7 @@
+body{
+    background-color: goldenrod;
+}
+
 .head{
     align-items: center;
     justify-content: center;
