@@ -1,0 +1,40 @@
+h1{
+    border: 2px solid red;
+    width: 400px;
+    padding-bottom: 10px;
+    margin: 40px 0 40px 400px ;
+    padding-left: 50px;
+    text-decoration-line: underline;
+    background-color: cyan;
+    font-style: italic;
+}
+body{
+    background-image: url(./forest.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: 1px solid;
+}
+h2{
+    border: 2px solid black;
+    width: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+    display: none;
+}
+
+button{
+    padding: 10px 24px;
+    background-color: gold;
+    color: maroon;
+    font-size: 17px;
+    border: none;
+    border-radius: 4px;
+    margin: 0 0 20px 20px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: white;
+    border: 1px solid gold;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
